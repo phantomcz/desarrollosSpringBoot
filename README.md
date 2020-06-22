@@ -10,4 +10,7 @@ El proyecto cuenta con test unitarios para el controller HelloController y Manej
 
 una vez compilado deployar springapp.war en un servidor de aplicaciones que cuente con java 1.8
 
+una vez deployado acceder a la ruta http://localhost:8080/springapp
+o http://127.0.0.1:8080/springapp
+
 
